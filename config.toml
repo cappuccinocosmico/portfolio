@@ -57,7 +57,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Nick Venner"
-    paragraph             = "Just my corner of the internet where I organize my stuff, feel free to look arround."
+    paragraph             = "Just my corner of the internet where I organize my stuff."
     rssIntro              = true
     socialIntro           = true
 
@@ -66,7 +66,7 @@ disableLanguages        = [""]
     [params.intro.pic]
       src                 = "/img/main/avatar.jpeg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
-      shape               = "hexagon"
+      shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
 
@@ -111,8 +111,8 @@ disableLanguages        = [""]
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
-    url               = "/about/"
+    name              = "Curriculum Vitae"
+    url               = "http://cv.eitau.xyz"
     identifier        = "far fa-id-card"
     weight            = 2
 
@@ -123,8 +123,8 @@ disableLanguages        = [""]
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    url               = "/categories/"
+    name              = "RFI"
+    url               = "http://rfi.eitau.xyz"
     identifier        = "fas fa-sitemap"
     weight            = 5
 
@@ -242,6 +242,7 @@ disableLanguages        = [""]
   slideshare            = ""
   # Social Networks
   facebook              = "example"
+  wechat              = ""
   googleplus            = ""
   reddit                = "example"
   quora                 = ""
@@ -249,7 +250,6 @@ disableLanguages        = [""]
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    wechat              = ""
     qq                  = "" # User ID Number
   instagram             = "example"
   tumblr                = ""
@@ -263,4 +263,4 @@ disableLanguages        = [""]
   orcid                 = ""
   researchgate          = "example"
   # Email
-  email                 = "example"
+  email                 = "nvenner@protonmail.ch"
