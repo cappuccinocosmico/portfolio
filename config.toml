@@ -111,13 +111,13 @@ disableLanguages        = [""]
     weight            = 1
 
   [[menu.main]]
-    name              = "Curriculum Vitae"
+    name              = "CV"
     url               = "http://cv.eitau.xyz"
     identifier        = "far fa-id-card"
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
+    name              = "Content"
     url               = "/blog/"
     identifier        = "far fa-newspaper"
     weight            = 3
@@ -128,11 +128,11 @@ disableLanguages        = [""]
     identifier        = "fas fa-sitemap"
     weight            = 5
 
-  [[menu.main]]
-    name              = "Contact"
-    url               = "/contact/"
-    identifier        = "far fa-envelope"
-    weight            = 6
+  # [[menu.main]]
+  #   name              = "Contact"
+  #   url               = "/contact/"
+  #   identifier        = "far fa-envelope"
+  #   weight            = 6
 
 [Languages]
   # Each language has its own menu.
