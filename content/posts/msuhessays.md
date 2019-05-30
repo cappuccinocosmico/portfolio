@@ -23,12 +23,14 @@ I think its also intresting that my 3 favorite books are all nonfiction. And I t
 
 
 ### Nature's Trust
-This book is very personaly important to me because its the inspiration for the lawsuit that me and 20 other young pepole are bringing against the trump administration. It brings forward the idea that the government has this responsibility
+This book is very personaly important to me because its the inspiration for the lawsuit that me and 20 other young pepole are bringing against the trump administration. It has 
+
+It brings forward the idea that the government has this inalienable responsibility to care for the enviorment under its control. 
 
 
 ### Reinventing Fire
 
-What I realy like about this book is that it realy changed the way I had viewed my main area of climate change activism. It transformed the whole issue from a vauge "Transition/Revolution", into a conciveable way to decarbonize the entire economy.
+What I realy like about this book is that it realy changed the way I had viewed my main area of climate change activism. It transformed the whole issue from a vauge "Transition/Revolution", into a conciveable way to decarbonize the entire economy. Its a lot more hopeful then a lot of other
 
 
 ### Infinite Series
